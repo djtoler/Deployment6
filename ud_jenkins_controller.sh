@@ -17,6 +17,3 @@ chmod +x auto-aws_cli.sh
 
 sudo apt install build-essential libmysqlclient-dev
 
-controller - vpc-0447a07f841021499 
-agent - 
-vscode/tf - vpc-0447a07f841021499 
