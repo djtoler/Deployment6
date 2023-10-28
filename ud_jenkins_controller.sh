@@ -17,3 +17,4 @@ chmod +x auto-aws_cli.sh
 
 sudo apt install build-essential libmysqlclient-dev
 
+#done
